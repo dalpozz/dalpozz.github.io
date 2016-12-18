@@ -10,10 +10,10 @@ url: "http://dalpozz.github.io"
 
 author:
   name: 'Andrea Dal Pozzolo'
-  desc: 'I am a data scientist focusing on machine learning for fraud detection.'
-  bio: 'I am a data scientist focusing on machine learning for fraud detection.'
   first_name: 'Andrea'
   last_name: 'Dal Pozzolo'
+  # desc: 'I am a data scientist focusing on machine learning for fraud detection.'
+  bio: 'I am a data scientist focusing on machine learning for fraud detection.'
   email: 'dalpozz@gmail.com'
   twitter_username: 'dalpozz'
   linkedin_username: 'https://www.linkedin.com/in/dalpozz'
