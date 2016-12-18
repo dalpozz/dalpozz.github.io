@@ -69,7 +69,7 @@
   icon: fa-book
 
 - name:
-    detail: Life actuary assistant 
+    detail: Actuary Assistant 
     i18n: Allianz
   desc:
     detail: Balance analysis and reporting according to US GAAP and IFRS regulation (HB2).
@@ -83,7 +83,7 @@
   icon: fa-search
 
 - name:
-    detail: Bachelor in Statistics
+    detail: Bachelor student in Statistics
     i18n: bach
   desc:
     detail: In July 2009, I graduated from a Bachelor in Statistics for Finance and Insurance with 110/110 Summa Cum Laude. During the bachelor I spent the second year at University of Glasgow (UK) as an Erasmus student
