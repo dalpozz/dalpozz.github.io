@@ -1,0 +1,12 @@
+
+- name: 'unbalanced: Racing for Unbalanced Methods Selection'
+  i18n: 'unbalanced'
+  url: '/dalpozz/unbalanced'
+  img: 'static/img/landing/R.jpg'
+  desc: 'R package to tackle the problem of unbalanced classification by performing under- and over-sampling with various techniques.'
+
+- name: 'Adaptive real-time machine learning for credit card fraud detection'
+  i18n: 'ARTML'
+  url: 'http://mlg.ulb.ac.be/ARTML'
+  img: 'static/img/landing/ulb_round.jpg'
+  desc: 'Detection of credit card frauds by means of Machine Learning algorithms.'

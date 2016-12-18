@@ -1,0 +1,83 @@
+- name:
+    detail: Quant & Data Scientist
+    i18n: EY
+  desc:
+    detail: Since April 2016, I am a Consultant within the Quant & Analytics team of EY in the Zurich office.
+    i18n: EY_des
+  date:
+    detail: Apr. 2016 
+    i18n: EY_date
+  job:
+    detail: Ernst & Young, Zurich, Switzerland
+    i18n: EY_job
+  icon: fa-search
+
+- name:
+    detail: Decision Analytics Consultant
+    i18n: VASCO
+  desc:
+    detail: Implementation of Fraud Detection Systems based on Machine Learning algorithms. 
+    i18n: VASCO_des
+  date:
+    detail: Jan. 2016 - Mar. 2016
+    i18n: VASCO_date
+  job:
+    detail: VASCO Data Security, Wemmel, Belgium 
+    i18n: VASCO_job
+  icon: fa-search
+
+- name:
+    detail: PhD student in Machine Learning
+    i18n: phd
+  desc:
+    detail: From January 2012 to December 2016, I was a PhD student at the Machine Learning Group (MLG) of the Universite Libre de Bruxelles (ULB).
+    i18n: phd_des
+  date:
+    detail: Jan. 2012 - Dec. 2015
+    i18n: ater_date
+  job:
+    detail: Machine Learning Group - ULB, Brussels, Belgium
+    i18n: phd_job
+  icon: fa-book
+
+- name:
+    detail: Analyst
+    i18n: directa
+  desc:
+    detail: Supervision of VisualTrader development (online stock trading platform). Customer support of the trading platform.  Development of trading systems and market scanners.
+    i18n: directa_des
+  date:
+    detail: Aug. 2009 - Jul. 2011
+    i18n: directa_date
+  job:
+    detail: Directa Sim, Turin, Italy
+    i18n: directa_job
+  icon: fa-search
+  
+- name:
+    detail: Master student in Statistics
+    i18n: master
+  desc:
+    detail: In Decembre 2011, I graduated from a Master of Science (M.S.) in Applied Statistics and Actuarial Science with a thesis titled "Comparison of Data Mining Techniques for Insurance Claim Prediction".
+    i18n: master_des
+  date:
+    detail: Jan. 2009 - Dec. 2011
+    i18n: ater_date
+  job:
+    detail: Master of Science (M.S.) in Applied Statistics and Actuarial Science
+    i18n: master_job
+  icon: fa-book
+
+- name:
+    detail: Life actuary assistant 
+    i18n: Allianz
+  desc:
+    detail: Balance analysis and reporting according to US GAAP and IFRS regulation (HB2).
+    i18n: Allianz_des
+  date:
+    detail: Nov. 2008 - Feb. 2009
+    i18n: Allianz_date
+  job:
+    detail: Allianz, Milan, Italy
+    i18n: Allianz_job
+  icon: fa-search
