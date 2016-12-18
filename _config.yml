@@ -8,12 +8,13 @@ baseurl: "/"
 url: "http://dalpozz.github.io"
 
 
-bio: "I’m passionate about data and I define myself a Data Scientist: I’m an expert in Machine Learning, Data Mining and statistical techniques. In my daily job I use statistical models to extract knowledge from data and provide insights."
+
 
 author:
   name: 'Andrea Dal Pozzolo'
   first_name: 'Andrea'
   last_name: 'Dal Pozzolo'
+  bio: "I’m passionate about data and I define myself a Data Scientist: I’m an expert in Machine Learning, Data Mining and statistical techniques. In my daily job I use statistical models to extract knowledge from data and provide insights."
   # desc: 'I am a data scientist focusing on machine learning for fraud detection.'
   email: 'dalpozz@gmail.com'
   twitter_username: 'dalpozz'
