@@ -11,14 +11,16 @@ url: "http://dalpozz.github.io"
 
 author:
   name: 'Andrea Dal Pozzolo'
+  desc: 'I am a data scientist focusing on machine learning for fraud detection.'
+  bio: 'I am a data scientist focusing on machine learning for fraud detection.'
   first_name: 'Andrea'
   last_name: 'Dal Pozzolo'
   email: 'dalpozz@gmail.com'
   twitter_username: 'dalpozz'
   linkedin_username: 'https://www.linkedin.com/in/dalpozz'
+  scholar_username: 'https://scholar.google.ch/citations?user=61wlSEYAAAAJ'
   github_username: 'dalpozz'
   head_img: 'static/img/landing/dalpozz.jpg'
-  desc: 'I am a data scientist focusing on machine learning for fraud detection.'
 
 # sections
 sections:
