@@ -6,7 +6,6 @@ description: "Personal website of Andrea Dal Pozzolo"
 keywords: "dalpozz,andrea,dalpozzolo,machinelearning,fraud,detection,datamining"
 baseurl: "/"
 url: "http://dalpozz.github.io"
-# url: "http://127.0.0.1:4000"
 
 
 author:
