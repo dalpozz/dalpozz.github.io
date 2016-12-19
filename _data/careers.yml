@@ -30,7 +30,7 @@
     detail: PhD student in Machine Learning
     i18n: phd
   desc:
-    detail: From January 2012 to December 2016, I was a PhD student at the Machine Learning Group (MLG) of the Universite Libre de Bruxelles (ULB).
+    detail: From January 2012 to December 2016, I was a PhD student at the Machine Learning Group (MLG) of the Université Libre de Bruxelles (ULB).
     i18n: phd_des
   date:
     detail: Jan. 2012 - Dec. 2015
@@ -64,7 +64,7 @@
     detail: Jan. 2009 - Dec. 2011
     i18n: ater_date
   job:
-    detail: Master of Science (M.S.) in Applied Statistics and Actuarial Science
+    detail: Master of Science (M.S.) in Applied Statistics and Actuarial Science at Università di Bologna
     i18n: master_job
   icon: fa-book
 
@@ -92,6 +92,6 @@
     detail: Sep. 2006 - Jul. 2009
     i18n: ater_date
   job:
-    detail: Bachelor of Science (B.S.) in Statistics for Finance and Insurance
+    detail: Bachelor of Science (B.S.) in Statistics for Finance and Insurance at Università di Bologna
     i18n: bach_job
   icon: fa-book
