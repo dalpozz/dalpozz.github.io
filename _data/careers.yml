@@ -64,7 +64,7 @@
     detail: Jan. 2009 - Dec. 2011
     i18n: ater_date
   job:
-    detail: Master of Science (M.S.) in Applied Statistics and Actuarial Science - UniBO, Bologna, Italy
+    detail: Master in Applied Statistics and Actuarial Science - UniBO, Bologna, Italy
     i18n: master_job
   icon: fa-book
 
@@ -92,6 +92,6 @@
     detail: Sep. 2006 - Jul. 2009
     i18n: ater_date
   job:
-    detail: Bachelor of Science (B.S.) in Statistics for Finance and Insurance - UniBO, Bologna, Italy
+    detail: Bachelor in Statistics for Finance and Insurance - UniBO, Bologna, Italy
     i18n: bach_job
   icon: fa-book
