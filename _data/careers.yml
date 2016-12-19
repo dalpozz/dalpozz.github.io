@@ -30,7 +30,7 @@
     detail: PhD student in Machine Learning
     i18n: phd
   desc:
-    detail: From January 2012 to December 2016, I was a PhD student at the Machine Learning Group (MLG) of the Université Libre de Bruxelles (ULB) under the supervision of Prof. Gianluca Bontempi. During the PhD I collaborated with Prof. Nitesh Chawla (University of Notre Dame, Indiana, USA) and with Prof. Giacomo Boracchi (Politecnico di Milano, Milan, Italy).
+    detail: PhD student at the Machine Learning Group (MLG) of the Université Libre de Bruxelles (ULB) under the supervision of Prof. Gianluca Bontempi. Collaboration with Prof. Nitesh Chawla (University of Notre Dame, Indiana, USA) and with Prof. Giacomo Boracchi (Politecnico di Milano, Milan, Italy).
     i18n: phd_des
   date:
     detail: Jan. 2012 - Dec. 2015
@@ -86,7 +86,7 @@
     detail: Bachelor student in Statistics
     i18n: bach
   desc:
-    detail: In July 2009, I graduated from a Bachelor in Statistics for Finance and Insurance at Università di Bologna with 110/110 Summa Cum Laude. During the bachelor I spent the second year at University of Glasgow (UK) as an Erasmus student
+    detail: In July 2009, I graduated from a Bachelor in Statistics for Finance and Insurance at Università di Bologna with 110/110 Summa Cum Laude. Second year at University of Glasgow (UK) as an Erasmus student.
     i18n: bach_des
   date:
     detail: Sep. 2006 - Jul. 2009
