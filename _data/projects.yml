@@ -6,7 +6,7 @@
   desc: 'R package to tackle the problem of unbalanced classification by performing under- and over-sampling with various techniques.'
 
 - name: 'Adaptive Machine Learning for Credit Card Fraud Detection'
-  i18n: '/dalpozz/ARTML'
+  i18n: '/dalpozz/AMLFD'
   url: 'AMLFD'
   img: 'static/img/landing/Pile-of-Credit-Cards.jpg'
   desc: 'Resources on the topic of Machine Learning for Credit Card Fraud Detection.'
