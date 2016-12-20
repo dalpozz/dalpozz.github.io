@@ -5,8 +5,8 @@
   img: 'static/img/landing/R.jpg'
   desc: 'R package to tackle the problem of unbalanced classification by performing under- and over-sampling with various techniques.'
 
-- name: 'Adaptive real-time machine learning for credit card fraud detection'
-  i18n: 'ARTML'
-  url: 'http://mlg.ulb.ac.be/ARTML'
-  img: 'static/img/landing/ulb_round.jpg'
-  desc: 'Detection of credit card frauds by means of Machine Learning algorithms.'
+- name: 'Adaptive Machine Learning for Credit Card Fraud Detection'
+  i18n: '/dalpozz/ARTML'
+  url: 'AMLFD'
+  img: 'static/img/landing/Pile-of-Credit-Cards.jpg'
+  desc: 'Resources on the topic of Machine Learning for Credit Card Fraud Detection.'
