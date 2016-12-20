@@ -2,7 +2,11 @@
     detail: Quant & Data Scientist
     i18n: EY
   desc:
-    detail: Since April 2016, I am a Consultant within the Quant & Analytics team of EY in the Zurich office. Client projects: * UBS: detection of AML activities using Machine Learning techniques and audit of the system in production. * Credit Suisse: performance calculation and evaluation of fraudulent EAM activities. * UBS: audit of credit risk model change for VaR and Stressed VaR calculation. * Zurich Insurance Group: treasury fraud pattern identification using Machine Learning algorithms.
+    detail: Since April 2016, I am a Consultant within the Quant & Analytics team of EY in the Zurich office. Client projects: 
+    - UBS: detection of AML activities using Machine Learning techniques and audit of the system in production. 
+    - Credit Suisse: performance calculation and evaluation of fraudulent EAM activities. 
+    - UBS: audit of credit risk model change for VaR and Stressed VaR calculation. 
+    - Zurich Insurance Group: treasury fraud pattern identification using Machine Learning algorithms.
     i18n: EY_des
   date:
     detail: Apr. 2016 
