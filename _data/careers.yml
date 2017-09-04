@@ -20,9 +20,9 @@
 
 - name:
     detail: Decision Analytics Consultant
-    i18n: VASCO
+    i18n: VASCO Data Security
   desc:
-    detail: Implementation of Fraud Detection Systems based on Machine Learning algorithms. 
+    detail: At VASCO I worked on the development of a Link Analysis application supporting fraud investigations and supported the design of a Fraud Detection systems based on Machine Learning algorithms. 
     i18n: VASCO_des
   date:
     detail: Jan. 2016 - Mar. 2016
