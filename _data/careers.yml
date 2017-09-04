@@ -5,7 +5,8 @@
     #detail: Since April 2016, I am a Consultant within the Quant & Analytics team of EY in the Zurich office. 
     detail: 
         Recently, at Nordea Bank I used Spark ML to prioritize money laundering alerts and reduce investigation cost. 
-        Prior to that I worked at UBS were I used Supervised and Unsupervised Machine Learning techniques to detection Money Laundering activities. I and also audited the credit risk model for VaR and Stressed VaR of UBS.  
+        Prior to that I worked at UBS were I used Supervised and Unsupervised Machine Learning techniques to detection Money Laundering activities. 
+        I and also audited the credit risk model for VaR and Stressed VaR of UBS.  
         In a different context, I applied clustering-based anomaly detection algoirithms to identify abnormal Balance Sheets and Income statements collected by Global Format GmbH. 
         At Credit Suisse I worked on the identification of fraudulent External Assets Managers and at Zurich Insurance I worked on identification of treasury fraud patterns using Unsupervised Learning algorithms.
     i18n: EY_des
