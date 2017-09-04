@@ -6,7 +6,7 @@
     detail: 
         Recently, at Nordea Bank I used Spark ML to prioritize money laundering alerts and reduce investigation cost. 
         Prior to that I worked at UBS were I used Supervised and Unsupervised Machine Learning techniques to detection Money Laundering activities. 
-        I and also audited the credit risk model for VaR and Stressed VaR of UBS.  
+        I also audited the credit risk model for VaR and Stressed VaR of UBS.  
         In a different context, I applied clustering-based anomaly detection algoirithms to identify abnormal Balance Sheets and Income statements collected by Global Format GmbH. 
         At Credit Suisse I worked on the identification of fraudulent External Assets Managers and at Zurich Insurance I worked on identification of treasury fraud patterns using Unsupervised Learning algorithms.
     i18n: EY_des
@@ -22,7 +22,7 @@
     detail: Decision Analytics Consultant
     i18n: VASCO Data Security
   desc:
-    detail: At VASCO I worked on the development of a Link Analysis application supporting fraud investigations and supported the design of a Fraud Detection systems based on Machine Learning algorithms. 
+    detail: At VASCO I worked on the development of a Link Analysis application for fraud investigations and supported the design of a Fraud Detection systems based on Machine Learning algorithms. 
     i18n: VASCO_des
   date:
     detail: Jan. 2016 - Mar. 2016

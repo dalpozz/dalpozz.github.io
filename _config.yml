@@ -24,6 +24,7 @@ author:
   github_username: 'dalpozz'
   head_img: 'static/img/landing/dalpozz.jpg'
 
+
 # sections
 sections:
   - id: 'about-me'
