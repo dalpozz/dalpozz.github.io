@@ -1,3 +1,3 @@
 My website
 
-Inspired by based on glemaitre.github.io
+Inspired by glemaitre.github.io
