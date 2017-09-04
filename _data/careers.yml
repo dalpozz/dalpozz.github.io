@@ -58,7 +58,7 @@
   job:
     detail: Directa Sim, Turin, Italy
     i18n: directa_job
-  icon: fa-search
+  icon: fa-briefcase
   
 - name:
     detail: Master student in Statistics
@@ -86,7 +86,7 @@
   job:
     detail: Allianz, Milan, Italy
     i18n: Allianz_job
-  icon: fa-search
+  icon: fa-briefcase
 
 - name:
     detail: Bachelor student in Statistics
