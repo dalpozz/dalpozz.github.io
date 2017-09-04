@@ -16,7 +16,7 @@
   job:
     detail: Ernst & Young, Zurich, Switzerland
     i18n: EY_job
-  icon: fa-search
+  icon: fa-briefcase
 
 - name:
     detail: Decision Analytics Consultant
@@ -30,7 +30,7 @@
   job:
     detail: VASCO Data Security, Wemmel, Belgium 
     i18n: VASCO_job
-  icon: fa-search
+  icon: fa-briefcase
 
 - name:
     detail: PhD student in Machine Learning
@@ -44,7 +44,7 @@
   job:
     detail: Machine Learning Group - ULB, Brussels, Belgium
     i18n: phd_job
-  icon: fa-book
+  icon: fa-university
 
 - name:
     detail: Analyst
