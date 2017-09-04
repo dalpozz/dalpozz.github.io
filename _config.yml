@@ -14,14 +14,14 @@ author:
   name: 'Andrea Dal Pozzolo'
   first_name: 'Andrea'
   last_name: 'Dal Pozzolo'
-  bio: 'I am passionate about data and I define myself a Data Scientist, an expert in Machine Learning, Data Mining and statistical techniques. In my daily job I use statistical models to extract knowledge from data and provide insights.'
-  desc: 'I am a data scientist focusing on machine learning for fraud detection.'
-  summary: 'My passion is to turn data into insights and products. Many problems can be solved by asking the right questions and using data to answer them, but many data sources are still untapped. I like working out the questions with the experts and digging down the data to find those gems. Overall, I have more than 6 years of experience in applying statistical and Machine Learning techniques to build prediction models for diverse business and research projects. I have led a team of 4 people in several ML projects where we used different Big Data technologies.'
   email: 'dalpozz@gmail.com'
   twitter_username: 'dalpozz'
   linkedin_username: 'https://www.linkedin.com/in/dalpozz'
   scholar_username: 'https://scholar.google.ch/citations?user=61wlSEYAAAAJ'
   github_username: 'dalpozz'
+  bio: 'I am passionate about data and I define myself a Data Scientist, an expert in Machine Learning, Data Mining and statistical techniques. In my daily job I use statistical models to extract knowledge from data and provide insights.'
+  desc: 'I am a data scientist focusing on machine learning for fraud detection.'
+  summary: 'My passion is to turn data into insights and products. Many problems can be solved by asking the right questions and using data to answer them, but many data sources are still untapped. I like working out the questions with the experts and digging down the data to find those gems. Overall, I have more than 6 years of experience in applying statistical and Machine Learning techniques to build prediction models for diverse business and research projects. I have led a team of 4 people in several ML projects where we used different Big Data technologies.'
   head_img: 'static/img/landing/dalpozz.jpg'
 
 
