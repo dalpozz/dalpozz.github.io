@@ -1,17 +1,33 @@
 - name:
+    detail: Enterprise Data Scientist
+    i18n: PMI
+  desc:
+    detail: 
+        At PMI I work on the identification of consumption patterns of Reduced Risk Products.
+        The goal is to understand how people use smoke-free products to help converting a higher number of customers to less harmfull alternatives than standard cigarettes. 
+    i18n: PMI_des
+  date:
+    detail: Jan. 2017 
+    i18n: PMI_date
+  job:
+    detail: Philip Morris International, Lausanne, Switzerland
+    i18n: PMI_job
+  icon: fa-briefcase
+  
+- name:
     detail: Senior Consultant in the Quant & Analytics team
     i18n: EY
   desc:
     #detail: Since April 2016, I am a Consultant within the Quant & Analytics team of EY in the Zurich office. 
     detail: 
-        Recently, at Nordea Bank I used Spark ML to prioritize money laundering alerts and reduce investigation cost. 
+        At Nordea Bank I used Spark ML to prioritize money laundering alerts and reduce investigation cost. 
         Prior to that I worked at UBS were I used Supervised and Unsupervised Machine Learning techniques to detection Money Laundering activities. 
         I also audited the credit risk model for VaR and Stressed VaR of UBS.  
         In a different context, I applied clustering-based anomaly detection algoirithms to identify abnormal Balance Sheets and Income statements collected by Global Format GmbH. 
         At Credit Suisse I worked on the identification of fraudulent External Assets Managers and at Zurich Insurance I worked on identification of treasury fraud patterns using Unsupervised Learning algorithms.
     i18n: EY_des
   date:
-    detail: Apr. 2016 
+    detail: Apr. 2016 - Dec. 2017
     i18n: EY_date
   job:
     detail: Ernst & Young, Zurich, Switzerland
