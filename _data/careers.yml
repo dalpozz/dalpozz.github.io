@@ -1,13 +1,29 @@
 - name:
+    detail: Manager Analytics and Reporting
+    i18n: PMI
+  desc:
+    detail: 
+        At PMP I work on the definiton of an advance diagnosis tool for electronic devices based on Machine Learning algorithms.
+        The goal is to find pattern in the error logs of the device to identify possible defects. 
+    i18n: PMP_des
+  date:
+    detail: Sept. 2019 
+    i18n: PMP_date
+  job:
+    detail: Philip Morris Products, Neuchatel, Switzerland
+    i18n: PMP_job
+  icon: fa-briefcase
+
+- name:
     detail: Senior Enterprise Data Scientist
     i18n: PMI
   desc:
     detail: 
-        At PMI I work on the identification of consumption patterns of Reduced Risk Products.
+        At PMI I worked on the identification of consumption patterns of Reduced Risk Products.
         The goal is to understand how people use smoke-free products to help converting a higher number of customers to less harmfull alternatives than standard cigarettes. 
     i18n: PMI_des
   date:
-    detail: Jan. 2017 
+    detail: Jan. 2017 - Aug. 2019
     i18n: PMI_date
   job:
     detail: Philip Morris International, Lausanne, Switzerland
