@@ -6,13 +6,28 @@
         Development of Unified Forecasting Engine for sales and demand prediction
     i18n: Roche_des
   date:
-    detail: Nov. 2021 
+    detail: Nov 2021 
     i18n: Roche_date
   job:
     detail: Hoffmann-La Roche, Basel, Switzerland
     i18n: Roche_job
   icon: fa-briefcase
 
+- name:
+    detail: VP - Senior Data Scientist
+    i18n: Credit Suisse
+  desc:
+    detail: 
+        Development of entity resolution and ontology model for Single Client View
+    i18n: CS_des
+  date:
+    detail: Aug 2021 - Oct 2021 
+    i18n: CS_date
+  job:
+    detail: Credit Suisse, Zurich, Switzerland
+    i18n: CS_job
+  icon: fa-briefcase
+  
 - name:
     detail: Manager Analytics and Reporting
     i18n: PMI
@@ -22,7 +37,7 @@
         The goal is to find pattern in the error logs of the device to identify possible defects. 
     i18n: PMP_des
   date:
-    detail: Sept. 2019 
+    detail: Sept 2019 - Jun 2021
     i18n: PMP_date
   job:
     detail: Philip Morris Products, Neuchatel, Switzerland
@@ -38,7 +53,7 @@
         The goal is to understand how people use smoke-free products to help converting a higher number of customers to less harmfull alternatives than standard cigarettes. 
     i18n: PMI_des
   date:
-    detail: Jan. 2017 - Aug. 2019
+    detail: Jan 2017 - Aug 2019
     i18n: PMI_date
   job:
     detail: Philip Morris International, Lausanne, Switzerland
@@ -58,7 +73,7 @@
         At Credit Suisse I worked on the identification of fraudulent External Assets Managers and at Zurich Insurance I worked on identification of treasury fraud patterns using Unsupervised Learning algorithms.
     i18n: EY_des
   date:
-    detail: Apr. 2016 - Dec. 2017
+    detail: Apr 2016 - Dec 2017
     i18n: EY_date
   job:
     detail: Ernst & Young, Zurich, Switzerland
@@ -72,7 +87,7 @@
     detail: At VASCO I worked on the development of a Link Analysis application for fraud investigations and supported the design of a Fraud Detection systems based on Machine Learning algorithms. 
     i18n: VASCO_des
   date:
-    detail: Jan. 2016 - Mar. 2016
+    detail: Jan 2016 - Mar 2016
     i18n: VASCO_date
   job:
     detail: VASCO Data Security, Wemmel, Belgium 
@@ -86,7 +101,7 @@
     detail: PhD student at the Machine Learning Group (MLG) of the Université Libre de Bruxelles (ULB) under the supervision of Prof. Gianluca Bontempi. Collaboration with Prof. Nitesh Chawla (University of Notre Dame, Indiana, USA) and with Prof. Giacomo Boracchi (Politecnico di Milano, Milan, Italy).
     i18n: phd_des
   date:
-    detail: Jan. 2012 - Dec. 2015
+    detail: Jan 2012 - Dec 2015
     i18n: ater_date
   job:
     detail: Machine Learning Group - ULB, Brussels, Belgium
@@ -100,7 +115,7 @@
     detail: Supervision of VisualTrader development (online stock trading platform). Customer support of the trading platform.  Development of trading systems and market scanners.
     i18n: directa_des
   date:
-    detail: Aug. 2009 - Jul. 2011
+    detail: Aug 2009 - Jul 2011
     i18n: directa_date
   job:
     detail: Directa Sim, Turin, Italy
@@ -114,7 +129,7 @@
     detail: In Decembre 2011, I graduated from a Master of Science (M.S.) in Applied Statistics and Actuarial Science at Università di Bologna with 110/110 Summa Cum Laude. Master thesis written at the Machine Learning Group of the Université Libre de Bruxelles.
     i18n: master_des
   date:
-    detail: Jan. 2009 - Dec. 2011
+    detail: Jan 2009 - Dec 2011
     i18n: ater_date
   job:
     detail: Master in Applied Statistics and Actuarial Science - UniBO, Bologna, Italy
@@ -128,7 +143,7 @@
     detail: Balance analysis and reporting according to US GAAP and IFRS regulation (HB2).
     i18n: Allianz_des
   date:
-    detail: Nov. 2008 - Feb. 2009
+    detail: Nov 2008 - Feb 2009
     i18n: Allianz_date
   job:
     detail: Allianz, Milan, Italy
@@ -142,7 +157,7 @@
     detail: In July 2009, I graduated from a Bachelor in Statistics for Finance and Insurance at Università di Bologna with 110/110 Summa Cum Laude. Second year at University of Glasgow (UK) as an Erasmus student.
     i18n: bach_des
   date:
-    detail: Sep. 2006 - Jul. 2009
+    detail: Sep 2006 - Jul 2009
     i18n: ater_date
   job:
     detail: Bachelor in Statistics for Finance and Insurance - UniBO, Bologna, Italy
