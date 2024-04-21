@@ -1,4 +1,19 @@
 - name:
+    detail: Senior Data Scientist
+    i18n: Roche
+  desc:
+    detail: 
+        Development of Unified Forecasting Engine for sales and demand prediction
+    i18n: Roche_des
+  date:
+    detail: Nov. 2021 
+    i18n: Roche_date
+  job:
+    detail: Hoffmann-La Roche, Basel, Switzerland
+    i18n: Roche_job
+  icon: fa-briefcase
+
+- name:
     detail: Manager Analytics and Reporting
     i18n: PMI
   desc:
