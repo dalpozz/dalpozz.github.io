@@ -3,7 +3,7 @@
     i18n: Roche
   desc:
     detail: 
-        Development of Unified Forecasting Engine for sales and demand prediction
+        Development of Unified Forecasting Engine for sales and demand prediction using traditional TS algorithms as well as advanced AI methods.
     i18n: Roche_des
   date:
     detail: Nov 2021 
@@ -33,7 +33,7 @@
     i18n: PMI
   desc:
     detail: 
-        At PMP I work on the definiton of an advance diagnosis tool for electronic devices based on Machine Learning algorithms.
+        At PMP I worked on the definiton of an advance diagnosis tool for electronic devices based on Machine Learning algorithms.
         The goal is to find pattern in the error logs of the device to identify possible defects. 
     i18n: PMP_des
   date:
